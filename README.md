@@ -23,7 +23,6 @@ This project involves working with a dataset of user complaints submitted to fin
  - **Timely response?:** A boolean variable indicating whether the response was timely.
  - **Complaint ID:** Unique identifier for the complaint on the platform.
 
- - 
  # What You Need to Do
  
  ## 1. **Consumer Complaints Sheet**
