@@ -26,7 +26,7 @@ This project involves working with a dataset of user complaints submitted to fin
  - 
  # What You Need to Do
  
- 1. **Consumer Complaints Sheet**
+ ## 1. **Consumer Complaints Sheet**
  
  **Name:** `Consumer complaints`
  
@@ -40,7 +40,7 @@ This project involves working with a dataset of user complaints submitted to fin
  - Sort the rows in ascending order by **Complaint ID**.
  - Apply a filter on the **Date received** column to only show rows with dates before August 8, 2016.
  
- # 2. **Geographical Insights Sheet**
+ ## 2. **Geographical Insights Sheet**
  
  **Name:** `Geographical insights`
  
@@ -55,7 +55,7 @@ This project involves working with a dataset of user complaints submitted to fin
  - Column B shows the number of complaints per state from the `Consumer complaints` tab (Hint: use the `COUNTIF` function).
  - Column C shows the percentage of complaints per state, rounded to the nearest whole number. Cells should be **green** if the percentage is less than 2%, and **red** otherwise (Hint: use conditional formatting).
  
- # 3. **Statistical Insights Sheet**
+ ## 3. **Statistical Insights Sheet**
  
  **Name:** `Statistical insights`
  
