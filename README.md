@@ -20,7 +20,7 @@ This project involves working with a dataset of user complaints submitted to fin
  - **Submitted via:** The method used to submit the complaint.
  - **Date sent to company:** The date when the complaint was sent to the company, formatted as YYYY-MM-DD.
  - **Company response to consumer:** The company’s response to the complaint.
- - **Timely response?:** A boolean variable indicating whether the response was timely.
+ - **Timely response:** A boolean variable indicating whether the response was timely.
  - **Complaint ID:** Unique identifier for the complaint on the platform.
 
  # What You Need to Do
