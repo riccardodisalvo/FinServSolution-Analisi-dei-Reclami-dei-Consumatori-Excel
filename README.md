@@ -15,16 +15,16 @@ FinServ Solutions ha identificato inefficienze nella struttura attuale del fogli
 # Struttura del foglio di calcolo 
 
 ## Primo Tab: "Consumer Complaints" 
- stile: Intestazione con carattere Comics Sans MS, dimensione 12pt, colore blu, riquadrata su 4 lati con bordo doppio. Celle non del titolo riquadrate su 4 lati    in nero con bordo sottile. No celle vuote al di fuori della tabella, colorate di bianco senza bordi.
- contenuto: Colonna aggiuntiva per i giorni intercorsi tra date di ricezione e invio. Ordinamento crescente sulla colonna Complaint ID. Filtro sulla colonna Date  received per mostrare solo righe con data antecedente al 8 agosto 2016.
+ - stile: Intestazione con carattere Comics Sans MS, dimensione 12pt, colore blu, riquadrata su 4 lati con bordo doppio. Celle non del titolo riquadrate su 4 lati    in nero con bordo sottile. No celle vuote al di fuori della tabella, colorate di bianco senza bordi.
+ - contenuto: Colonna aggiuntiva per i giorni intercorsi tra date di ricezione e invio. Ordinamento crescente sulla colonna Complaint ID. Filtro sulla colonna        Date   received per mostrare solo righe con data antecedente al 8 agosto 2016.
  
 ## Secondo Tab: "Geographical Insight"
- Stile: Intestazione con carattere Comics Sans MS, dimensione 12pt, colore blu, riquadrata su 4 lati con bordo doppio. Celle non del titolo riquadrate su 4 lati    in nero con bordo sottile. No celle vuote al di fuori della tabella, colorate di bianco senza bordi.
- Contenuto: Colonna B con numero di lamentele per stato (funzione CONTA.SE). Colonna C con percentuale di lamentele per stato, colorata in verde se inferiore al    2%, rossa altrimenti (formattazione condizionale).
+ - Stile: Intestazione con carattere Comics Sans MS, dimensione 12pt, colore blu, riquadrata su 4 lati con bordo doppio. Celle non del titolo riquadrate su 4 lati    in nero con bordo sottile. No celle vuote al di fuori della tabella, colorate di bianco senza bordi.
+ - Contenuto: Colonna B con numero di lamentele per stato (funzione CONTA.SE). Colonna C con percentuale di lamentele per stato, colorata in verde se inferiore al    2%, rossa altrimenti (formattazione condizionale).
 
  ## Terzo Tab: "Statistical Insight"
- Stile: Intestazione con carattere Comics Sans MS, dimensione 12pt, colore blu, riquadrata su 4 lati con bordo doppio. Celle non del titolo riquadrate su 4 lati    in nero con bordo sottile. No celle vuote al di fuori della tabella, colorate di bianco senza bordi.
- Contenuto: Colonna A con motivi distinti di reclamo. Cella B7 con il valore moda tra le categorie di reclami.
+ - Stile: Intestazione con carattere Comics Sans MS, dimensione 12pt, colore blu, riquadrata su 4 lati con bordo doppio. Celle non del titolo riquadrate su 4 lati    in nero con bordo sottile. No celle vuote al di fuori della tabella, colorate di bianco senza bordi.
+ - Contenuto: Colonna A con motivi distinti di reclamo. Cella B7 con il valore moda tra le categorie di reclami.
 
 # Utilizzo
 
